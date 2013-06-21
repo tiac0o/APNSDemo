@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security
+END
+SecurityUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/SecurityUtil.m
+END
+NSString+MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/NSString+MD5.m
+END
+NSData+AES.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/NSData+AES.h
+END
+NSData+AES.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/NSData+AES.m
+END
+SecurityUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/SecurityUtil.h
+END
+NSString+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ppandroid/!svn/ver/663/trunk/00.code/TianCong/develop/APNSDemo/APNSDemo/Security/NSString+MD5.h
+END
